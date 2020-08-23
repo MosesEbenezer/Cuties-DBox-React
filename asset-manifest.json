@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cuties-dbox-react/static/css/main.8c7f4284.chunk.css",
+    "main.js": "/cuties-dbox-react/static/js/main.270ef766.chunk.js",
+    "main.js.map": "/cuties-dbox-react/static/js/main.270ef766.chunk.js.map",
+    "runtime-main.js": "/cuties-dbox-react/static/js/runtime-main.babbebf7.js",
+    "runtime-main.js.map": "/cuties-dbox-react/static/js/runtime-main.babbebf7.js.map",
+    "static/js/2.3d137e5b.chunk.js": "/cuties-dbox-react/static/js/2.3d137e5b.chunk.js",
+    "static/js/2.3d137e5b.chunk.js.map": "/cuties-dbox-react/static/js/2.3d137e5b.chunk.js.map",
+    "index.html": "/cuties-dbox-react/index.html",
+    "precache-manifest.b060307a379e155a8ee87fd912c4f1e5.js": "/cuties-dbox-react/precache-manifest.b060307a379e155a8ee87fd912c4f1e5.js",
+    "service-worker.js": "/cuties-dbox-react/service-worker.js",
+    "static/css/main.8c7f4284.chunk.css.map": "/cuties-dbox-react/static/css/main.8c7f4284.chunk.css.map",
+    "static/js/2.3d137e5b.chunk.js.LICENSE.txt": "/cuties-dbox-react/static/js/2.3d137e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.babbebf7.js",
+    "static/js/2.3d137e5b.chunk.js",
+    "static/css/main.8c7f4284.chunk.css",
+    "static/js/main.270ef766.chunk.js"
+  ]
+}
